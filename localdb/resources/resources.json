@@ -1,0 +1,54 @@
+[
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@700&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "IBM Plex Sans",
+          "fontStyle": "normal",
+          "fontWeight": 700
+        }
+      ]
+    }
+  },
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "IBM Plex Sans",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        }
+      ]
+    }
+  },
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@700&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "Plus Jakarta Sans",
+          "fontStyle": "normal",
+          "fontWeight": 700
+        }
+      ]
+    }
+  },
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "Plus Jakarta Sans",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        }
+      ]
+    }
+  }
+]
